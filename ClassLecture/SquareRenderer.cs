@@ -16,7 +16,7 @@ namespace ClassLecture {
         }
 
         public void Render() {
-            for(int row = 0; row < height; row++) {
+            for(int row = 0; row < width; row++) {
                 for (int column = 0; column < width; column++) {
 
                     if (row == 0 || row == height - 1) {
