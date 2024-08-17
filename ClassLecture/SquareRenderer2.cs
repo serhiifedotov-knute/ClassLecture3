@@ -5,12 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ClassLecture {
-    internal class SquareRenderer {
+    internal class SquareRenderer2 {
 
         public int width;
         public int height;
 
-        public SquareRenderer(int width, int height) {
+        public SquareRenderer2(int width, int height) {
             this.width = width;
             this.height = height;
         }
