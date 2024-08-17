@@ -28,6 +28,7 @@ namespace ClassLecture {
                 Console.WriteLine();
             }
 
+            Console.WriteLine("finished render");
         }
     }
 }
